@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732506664299",
+    "project_id": "quizcraft-e3df3",
+    "storage_bucket": "quizcraft-e3df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732506664299:android:077e94a3ddf5eec74e702e",
+        "android_client_info": {
+          "package_name": "com.example.quizcraft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMoM_dKZpnncbk2i6uaQJygM3TkPjS5_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
